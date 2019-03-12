@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="074b4b7c-4f83-46b9-b07b-43f10eb2d8e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LDA$sklearn_lda_10.coverage" NAME="sklearn_lda_10 Coverage Results" MODIFIED="1546085123106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$example.coverage" NAME="example Coverage Results" MODIFIED="1545211295030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$lda__1_.coverage" NAME="lda (1) Coverage Results" MODIFIED="1545570974309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$sklearn_lda_20.coverage" NAME="sklearn_lda_20 Coverage Results" MODIFIED="1546085141563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$lda_10.coverage" NAME="lda_10 Coverage Results" MODIFIED="1546091973361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$lda__2_.coverage" NAME="lda (2) Coverage Results" MODIFIED="1546140857715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$sklearn_lda_5.coverage" NAME="sklearn_lda_5 Coverage Results" MODIFIED="1546085117879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$lda.coverage" NAME="lda Coverage Results" MODIFIED="1546067671729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LDA$lda_20.coverage" NAME="lda_20 Coverage Results" MODIFIED="1546091976417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2415">
+              <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+              <folding>
+                <element signature="e#23#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results_20.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sklearn_lda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <folding>
+                <element signature="e#23#82#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xrange</find>
+      <find>preprocessing</find>
+      <find>news</find>
+      <find>Topic #9</find>
+      <find>nw</find>
+      <find>nwsum</find>
+      <find>nd</find>
+      <find>theta</find>
+      <find>str</find>
+      <find>words</find>
+      <find>doc_length</find>
+      <find>tw_sum</find>
+      <find>I</find>
+      <find>the</find>
+      <find>The</find>
+      <find>paterno</find>
+      <find>lionfish</find>
+      <find>yuliya</find>
+      <find>0.07</find>
+      <find>greenberg</find>
+      <find>company</find>
+      <find>zika</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>range</replace>
+      <replace>tw</replace>
+      <replace>tw_sum</replace>
+      <replace>dw</replace>
+      <replace>dw_sum</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example.py" />
+        <option value="$PROJECT_DIR$/results.txt" />
+        <option value="$PROJECT_DIR$/ENstopwords891.txt" />
+        <option value="$PROJECT_DIR$/ENstopwords.txt" />
+        <option value="$PROJECT_DIR$/lda_master.py" />
+        <option value="$PROJECT_DIR$/little_news" />
+        <option value="$PROJECT_DIR$/sk_results.txt" />
+        <option value="$PROJECT_DIR$/lda-master/lda_master.py" />
+        <option value="$PROJECT_DIR$/sk_results_10.txt" />
+        <option value="$PROJECT_DIR$/sklearn_lda_10.py" />
+        <option value="$PROJECT_DIR$/sklearn_lda_20.py" />
+        <option value="$PROJECT_DIR$/sklearn_lda_5.py" />
+        <option value="$PROJECT_DIR$/lda_10.py" />
+        <option value="$PROJECT_DIR$/lda_20.py" />
+        <option value="$PROJECT_DIR$/lda.py" />
+        <option value="$PROJECT_DIR$/sklearn_lda.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="504" />
+    <option name="y" value="275" />
+    <option name="width" value="1064" />
+    <option name="height" value="300" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LDA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LDA" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../regress" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lda-master" />
+      <recent name="$PROJECT_DIR$/news.txt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results/500" />
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/lda-master" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.lda (2)">
+    <configuration name="lda (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lda_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lda_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lda_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lda_20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearn_lda_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sklearn_lda_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearn_lda_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sklearn_lda_20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lda (2)" />
+        <item itemvalue="Python.lda_20" />
+        <item itemvalue="Python.lda_10" />
+        <item itemvalue="Python.sklearn_lda_20" />
+        <item itemvalue="Python.sklearn_lda_10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="074b4b7c-4f83-46b9-b07b-43f10eb2d8e8" name="Default Changelist" comment="" />
+      <created>1544772200511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544772200511</updated>
+      <workItem from="1544772201731" duration="5641000" />
+      <workItem from="1544794253156" duration="44000" />
+      <workItem from="1545130784679" duration="21870000" />
+      <workItem from="1545302063489" duration="12444000" />
+      <workItem from="1545532446792" duration="49000" />
+      <workItem from="1545550788194" duration="18071000" />
+      <workItem from="1545919562639" duration="9079000" />
+      <workItem from="1546076805506" duration="12000" />
+      <workItem from="1546079107522" duration="16410000" />
+      <workItem from="1546243713135" duration="1652000" />
+      <workItem from="1546937163810" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85292000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16657443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3966597" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979124" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32982844" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/news.txt/stop_words891" />
+    <entry file="file://$PROJECT_DIR$/news.txt/news.txt" />
+    <entry file="file://$PROJECT_DIR$/news.txt/ENstopwords891.txt" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/decomposition/online_lda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="313" selection-start-line="313" selection-end-line="313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="299" selection-start-line="299" selection-end-line="299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logging.conf" />
+    <entry file="file:///usr/lib/python2.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="665" column="73" lean-forward="true" selection-start-line="665" selection-start-column="61" selection-end-line="665" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="394" column="7" lean-forward="true" selection-start-line="394" selection-start-column="7" selection-end-line="394" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="1235" column="4" selection-start-line="1235" selection-start-column="4" selection-end-line="1235" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247972723/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="1199" column="28" lean-forward="true" selection-start-line="1199" selection-start-column="28" selection-end-line="1199" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lda-master/data/tmp/model_phi.dat" />
+    <entry file="file://$PROJECT_DIR$/lda-master/logging.conf" />
+    <entry file="file://$PROJECT_DIR$/example.py" />
+    <entry file="file://$PROJECT_DIR$/news.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="489">
+          <caret line="208" selection-start-line="20" selection-end-line="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="237" column="8" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lda-master/lda_master.py" />
+    <entry file="file://$PROJECT_DIR$/lda-master/data/tmp/model_twords.dat" />
+    <entry file="file://$PROJECT_DIR$/little_news" />
+    <entry file="file://$PROJECT_DIR$/results/results_10.txt" />
+    <entry file="file://$PROJECT_DIR$/results/sk_results.txt" />
+    <entry file="file://$PROJECT_DIR$/ENstopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="693" column="3" selection-start-line="693" selection-start-column="3" selection-end-line="693" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_sk20.txt" />
+    <entry file="file://$PROJECT_DIR$/news_sk10.txt" />
+    <entry file="file://$PROJECT_DIR$/news_sk5.txt" />
+    <entry file="file://$PROJECT_DIR$/news_20.txt" />
+    <entry file="file://$PROJECT_DIR$/news_10.txt" />
+    <entry file="file://$PROJECT_DIR$/sklearn_lda_10.py" />
+    <entry file="file://$PROJECT_DIR$/sklearn_lda_20.py" />
+    <entry file="file://$PROJECT_DIR$/sklearn_lda_5.py" />
+    <entry file="file://$PROJECT_DIR$/lda_20.py" />
+    <entry file="file://$PROJECT_DIR$/lda_10.py" />
+    <entry file="file://$PROJECT_DIR$/results/sk_results_5.txt" />
+    <entry file="file://$PROJECT_DIR$/results/sk_results_10.txt" />
+    <entry file="file://$PROJECT_DIR$/results/500/results_10.txt" />
+    <entry file="file://$PROJECT_DIR$/results/results_5.txt" />
+    <entry file="file://$PROJECT_DIR$/results/500/results_5.txt" />
+    <entry file="file://$PROJECT_DIR$/results/500/sk_results_5.txt" />
+    <entry file="file://$PROJECT_DIR$/results/results_20.txt" />
+    <entry file="file://$PROJECT_DIR$/results/sk_results_20.txt" />
+    <entry file="file://$PROJECT_DIR$/results/500/sk_results_20.txt" />
+    <entry file="file://$PROJECT_DIR$/results/500/sk_results_10.txt" />
+    <entry file="file://$PROJECT_DIR$/results/500/results_20.txt" />
+    <entry file="file://$PROJECT_DIR$/lda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+          <folding>
+            <element signature="e#23#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results_20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sklearn_lda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#23#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
